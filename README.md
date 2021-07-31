@@ -1,6 +1,6 @@
 ## NODE EXPRESS CACHING FETCHED DATA with REDIS
 
-### Descrption:
+### Description:
 
 This code is a demo on caching data with Redis to lower latency and speed up load time
 
