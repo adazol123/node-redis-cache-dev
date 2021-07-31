@@ -1,7 +1,8 @@
 ## NODE EXPRESS CACHING FETCHED DATA with REDIS
 
 ### Descrption:
-    This code is a demo on caching data with Redis to lower latency and speed up load time
+
+This code is a demo on caching data with Redis to lower latency and speed up load time
 
 ### Packages installed:
 
@@ -44,7 +45,7 @@ npm run dev
 
 Local server (Browser)
 
-    https://localhost:4000/crypto/[ insert_coin_name_here ]
+    http://localhost:4000/crypto/[ insert_coin_name_here ]
 
 ___
 
