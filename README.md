@@ -20,30 +20,31 @@ ___
 First, download redis-cli (for LINUX)
 
 ``` bash
-$ sudo add-apt-repository ppa:redislabs/redis
-$ sudo apt-get update
-$ sudo apt-get install redis
+sudo add-apt-repository ppa:redislabs/redis
+sudo apt-get update
+sudo apt-get install redis
 ```
 
  Then, clone this repo
 
 ``` zsh
-$ git clone https://github.com/adazol123/node-redis-cache-dev.git "app name here"
-# then
-$ cd "app name here"
+git clone https://github.com/adazol123/node-redis-cache-dev.git "app-name-here"
 ```
  
-Install the packages
+Install the packages (using NPM)
 
 ``` zsh
-$ npm/yarn install
- 
+npm install
 ```
-Run server
-
+Run server (using NPM)
 ``` zsh
-$ npm run dev
+npm run dev
 ```
+
+
+Local server (Browser)
+
+    https://localhost:4000/crypto/[ insert_coin_name_here ]
 
 ___
 
